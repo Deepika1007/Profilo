@@ -1,0 +1,143 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background:linear-gradient(to left,rgb(208, 92, 111),rgb(64, 201, 201));
+    width: 100%;
+    height:100px;
+    position: relative;
+    font-size: x-large;
+}
+h1{
+    padding-top:30px;
+    padding-left:800px;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+.a{
+    width:100%;
+    height:100vh;
+    position: relative;
+}
+.a img{
+    width:100%;
+    height:1480px;
+}
+.a1 img{
+    width:250px;
+    position:absolute;
+    top:150px;
+    left:100px;
+    border-radius: 500px;
+}
+.a2 h1{
+    position:absolute;
+    color:yellow;
+    padding-left: 450px;
+    top:200px;
+    font-size:xx-large;
+}
+.a2 h2{
+    position:absolute;
+    color:white;
+    left:450px;
+    top:280px;
+}
+.a3 h2{
+    position: absolute;
+    color:brown;
+    top:500px;
+    left:300px;
+}
+.a3 p{
+    position: absolute;
+    color:black;
+    top:550px;
+    left:320px;
+    width:800px;
+}
+.a4 h2{
+    position: absolute;
+    color:brown;
+    top:650px;
+    left:300px;
+}
+.a4 ol{
+    position: absolute;
+    color:black;
+    top:700px;
+    left:330px;
+}
+.a5 h2{
+    position: absolute;
+    color:brown;
+    top:930px;
+    left:300px;
+}
+.a5 ul{
+    position: absolute;
+    color:black;
+    top:950px;
+    left:330px;   
+}
+.a6 h2{
+    position: absolute;
+    color:brown;
+    top:1120px;
+    left:300px; 
+}
+.a6 ul{
+    position: absolute;
+    color:black;
+    top:1130px;
+    left:320px;   
+}
+li{
+    padding-top:20px;
+}
+ul{
+    padding-top:20px;
+}
+p{
+    padding-top: 20px;
+}
+.a7 button{
+    position: absolute;
+    background-color:rgb(58, 6, 106);
+    color:white;
+    top: 1340px;
+    left:300px;
+    width:200px;
+    height:40px;
+    font-size:large;
+}
+.a8 h3{
+    position: absolute;
+    top:1450px;
+    left:670px;
+    color:orangered;
+}
+.a8 ol{
+    position:absolute;
+    top:1480px;
+    left:610px;
+    color:rgb(190, 70, 26)
+}
+h4{
+    padding-top:10px;
+    text-align: center;
+}
+.a9{
+    background:linear-gradient(to left,rgb(208, 92, 111),rgb(64, 201, 201));
+    width: 100%;
+    height:100px;
+    font-size: x-large;
+    position: absolute;
+    top:1550px;
+}
+.a9 h4{
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 650px;
+}
